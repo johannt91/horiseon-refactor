@@ -7,7 +7,7 @@
 
 - Consolidated redunduncies in CCS.
 
-- Visit here: https://johannt91.github.io/horiseon-refactor/
+- Visit here: https://johannt91.github.io/horiseon-web-services/
 
 ![](horiseon1.png)
 ![](horiseon2.png)
