@@ -1,9 +1,9 @@
 # Horiseon Services
 ## Code accessibility and search engine optimization
 
-- Added semantic elements for screen readers to allow accessibility for screen readers.
+- Added semantic elements to allow accessibility for screen readers.
 
-- Flow of CSS matches flow HTML
+- Flow of CSS matches flow of HTML.
 
 - Consolidated redunduncies in CCS.
 
